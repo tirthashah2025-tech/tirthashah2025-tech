@@ -2,13 +2,13 @@
 
 High school senior in Clarksburg, MD, finishing an A.A.S. in Cloud Computing & Networking at Montgomery College (4.00 GPA) through dual enrollment. I build full-stack, AI, and embedded systems, and I care most about the parts that have to be right: data accuracy, payments, and failure handling.
 
-[LinkedIn](https://www.linkedin.com/in/tirth-shah-4923a3404) ∑ tirthashah@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tirth-shah-4923a3404) ù tirthashah@gmail.com
 
 ---
 
 ### PatientLens: meal photo to a validated diet-quality score
 
-*Private repository. Described here without proprietary code or study materials.*
+*Private repository. Described here without proprietary code or study materials. Architecture and design write-up: [patientlens-showcase](https://github.com/tirthashah2025-tech/patientlens-showcase).*
 
 **Problem.** Colon cancer survivors are told to eat better, but most nutrition apps only count calories. Clinicians care about diet *quality*, which is measured with the USDA's Healthy Eating Index (HEI). Scoring HEI by hand from food logs is slow, and patients rarely do it.
 
@@ -36,6 +36,8 @@ High school senior in Clarksburg, MD, finishing an A.A.S. in Cloud Computing & N
 ---
 
 ### PTK Chapter Platform & Stripe Payments API
+
+[Live site](https://ptk-gt-website-by-tirth-shah.netlify.app)
 
 **Problem.** My Phi Theta Kappa chapter (80+ members) ran on scattered documents and collected dues by hand. Officers needed to update the site without a developer, and the chapter needed a way to take payments that couldn't double-charge anyone or lose a record.
 
