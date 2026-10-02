@@ -8,7 +8,7 @@ High school senior in Clarksburg, MD, finishing an A.A.S. in Cloud Computing & N
 
 ### PatientLens: meal photo to a validated diet-quality score
 
-*Private repository. Described here without proprietary code or study materials. Architecture and design write-up: [patientlens-showcase](https://github.com/tirthashah2025-tech/patientlens-showcase).*
+*Private repository. Described here without proprietary code or study materials. Architecture and design write-up: [PatientLens showcase](https://github.com/tirthashah2025-tech/Patientlens-showcase-by-Tirth-Shah).*
 
 **Problem.** Colon cancer survivors are told to eat better, but most nutrition apps only count calories. Clinicians care about diet *quality*, which is measured with the USDA's Healthy Eating Index (HEI). Scoring HEI by hand from food logs is slow, and patients rarely do it.
 
@@ -29,7 +29,7 @@ High school senior in Clarksburg, MD, finishing an A.A.S. in Cloud Computing & N
 - I checked food matching by hand on 50+ real meals, focusing on composite and regional dishes where the matches drifted.
 - The API returns distinct responses for invalid input (400), no food detected (422), and upstream rate limiting (429), so each failure can be handled and logged on its own.
 
-**What I learned.** It matters where the truth lives. The model's job is narrow, the reference data is the source of truth, and every fallback is a choice I have to document and defend. I'm now drafting a study design and IRB materials with an oncology fellow at MedStar Georgetown.
+**What I learned.** It matters where the truth lives. The model's job is narrow, the reference data is the source of truth, and every fallback is a choice I have to document and defend. With a MedStar-Georgetown oncology fellow, I took the study through Institutional Review Board review, and the manuscript is now in review for publication.
 
 `TypeScript` `React Native / Expo` `Node.js / Express` `PostgreSQL` `Gemini API` `Python` `Figma` `pnpm monorepo`
 
