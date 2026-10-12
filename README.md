@@ -27,7 +27,7 @@ High school senior finishing an A.A.S. in Cloud Computing & Networking (4.00 GPA
 - I checked food matching by hand on 50+ real meals, focusing on composite and regional dishes where the matches drifted.
 - The API returns distinct responses for invalid input (400), no food detected (422), and upstream rate limiting (429), so each failure can be handled and logged on its own.
 
-**What I learned.** It matters where the truth lives. The model's job is narrow, the reference data is the source of truth, and every fallback is a choice I have to document and defend. With a MedStar-Georgetown oncology fellow, I took the study through Institutional Review Board review, and the manuscript is now in review for publication.
+**What I learned.** It matters where the truth lives. The model's job is narrow, the reference data is the source of truth, and every fallback is a choice I have to document and defend. With a MedStar-Georgetown oncology fellow, I'm working through Institutional Review Board review, and the manuscript is in progress.
 
 `TypeScript` `React Native / Expo` `Node.js / Express` `PostgreSQL` `Gemini API` `Python` `Figma` `pnpm monorepo`
 
